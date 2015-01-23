@@ -1,0 +1,20 @@
+background1;data/img/background1_1080_720.jpg
+background2;data/img/background2.jpg
+Menu_Beschreibung;data/img/beschreibung.png
+Menu_Highscores;data/img/highscores.png
+// Menupoints
+Menu_Hell_1;data/img/Menu_Druecker_hell.png
+Menu_Hell_2;data/img/Menu_Ventilator_hell.png
+Menu_Hell_3;data/img/Menu_Kurbel_hell.png
+Menu_Dunkel_1;data/img/Menu_Druecker_Dunkel.png
+Menu_Dunkel_2;data/img/Menu_Ventilator_Dunkel.png
+Menu_Dunkel_3;data/img/Menu_Kurbel_Dunkel.png
+// Icons
+icon_1;data/img/icon_druecker.png
+icon_2;data/img/icon_ventilator.png
+icon_3;data/img/icon_kurbel.png
+middle_line;data/img/Trennlinie_small.png
+line;data/img/line_small.png
+percent_dark;data/img/percent_grey_20.png
+underline;data/img/unterstrich.png
+splashscreen;data/img/splashscreen.png

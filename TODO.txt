@@ -1,0 +1,14 @@
+Serial functions
+	- Accessable serial read
+
+LadeScreen
+- Design
+
+Commenting 
+
+Priority 2:
+Logger
+	- Write to Logfile.
+
+Image Database 
+	- Read from File.

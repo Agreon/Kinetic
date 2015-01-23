@@ -1,0 +1,20 @@
+[00:38:34] Port opened: true
+[00:38:34] Params setted: true
+[00:38:34] Loaded image(background1) succesfull from path: data/img/background1_1080_720.jpg
+[00:38:34] Loaded image(background2) succesfull from path: data/img/background2.jpg
+[00:38:34] Loaded image(Menu_Beschreibung) succesfull from path: data/img/beschreibung.png
+[00:38:34] Loaded image(Menu_Highscores) succesfull from path: data/img/highscores.png
+[00:38:34] Loaded image(Menu_Hell_1) succesfull from path: data/img/Menu_Druecker_hell.png
+[00:38:34] Loaded image(Menu_Hell_2) succesfull from path: data/img/Menu_Ventilator_hell.png
+[00:38:34] Loaded image(Menu_Hell_3) succesfull from path: data/img/Menu_Kurbel_hell.png
+[00:38:34] Loaded image(Menu_Dunkel_1) succesfull from path: data/img/Menu_Druecker_Dunkel.png
+[00:38:34] Loaded image(Menu_Dunkel_2) succesfull from path: data/img/Menu_Ventilator_Dunkel.png
+[00:38:34] Loaded image(Menu_Dunkel_3) succesfull from path: data/img/Menu_Kurbel_Dunkel.png
+[00:38:34] Loaded image(icon_1) succesfull from path: data/img/icon_druecker.png
+[00:38:34] Loaded image(icon_2) succesfull from path: data/img/icon_ventilator.png
+[00:38:34] Loaded image(icon_3) succesfull from path: data/img/icon_kurbel.png
+[00:38:34] Loaded image(middle_line) succesfull from path: data/img/Trennlinie_small.png
+[00:38:34] Loaded image(line) succesfull from path: data/img/line_small.png
+[00:38:34] Loaded image(percent_dark) succesfull from path: data/img/percent_grey_20.png
+[00:38:34] Loaded image(underline) succesfull from path: data/img/unterstrich.png
+[00:38:34] Loaded image(splashscreen) succesfull from path: data/img/splashscreen.png
